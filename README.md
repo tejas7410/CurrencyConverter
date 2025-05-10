@@ -54,24 +54,17 @@ cd currency-converter
 ### 2. Install Dependencies
 
 ```bash
-npm install
-# or
-yarn install
+npm run dev
+
 ```
 
-### 3. Add Your API Key
+> You can get a free API key from [ExchangeRate API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/${currency}.json) or a similar service.
+> currecy can be usd or inr any available
 
-Create a `.env` file in the root directory:
-
-```env
-REACT_APP_EXCHANGE_API_KEY=your_api_key_here
-```
-
-> You can get a free API key from [ExchangeRate API](https://www.exchangerate-api.com/) or a similar service.
-
-### 4. Run the App
+### 3. Run the App
 
 ```bash
+
 npm run dev
 
 App will be available at `http://localhost:5173`.
@@ -88,13 +81,13 @@ App will be available at `http://localhost:5173`.
 
 ## 🖼️ UI Preview
 
-![App Screenshot](./public/Screenshot.png)
+![App Screenshot](public/Screenshot.png)
 
 ---
 
 ## 🧩 Technologies Used
 
-- React
+- React+Vite
 - Tailwind CSS
 - JavaScript (ES6+)
 - Environment variables for API security
@@ -119,18 +112,11 @@ App will be available at `http://localhost:5173`.
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙋‍♂️ Author
 
 **Tejas Kangule**
 Integrated B.Tech + MBA, ABV-IIITM Gwalior
-[GitHub](https://github.com/your-username)
+[GitHub](https://github.com/tejas7410)
 
 ---
 
@@ -139,7 +125,3 @@ Integrated B.Tech + MBA, ABV-IIITM Gwalior
 ```
 
 Let me know if you'd like to include your `InputBox.jsx` or `useCurrencyInfo.js` code inside the README too for better documentation.
-
-```
-
-```
