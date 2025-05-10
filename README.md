@@ -53,6 +53,7 @@ cd currency-converter
 
 ### 2. Install Dependencies
 
+![App Screenshot](public/Screenshot.png)
 ```bash
 npm run dev
 
