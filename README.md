@@ -1,6 +1,6 @@
 Got it! Here's the **entire `README.md` code in a single block**, ready to be copied and pasted into your project without breaking it into sections:
 
-```markdown
+`````markdown
 # 💱 React Currency Converter
 
 A simple, modern currency converter built using **React**, **custom hooks**, and **Tailwind CSS**. It fetches real-time exchange rates and allows bidirectional conversion between any two currencies.
@@ -19,7 +19,8 @@ A simple, modern currency converter built using **React**, **custom hooks**, and
 ---
 
 ## 📂 Project Structure
-```
+
+```bash
 
 currency-converter/
 ├── public/
@@ -38,8 +39,8 @@ currency-converter/
 ├── .env
 ├── package.json
 └── README.md
-
-````
+```
+`````
 
 ---
 
@@ -55,14 +56,14 @@ npm install
 
 # 3. Run the app
 npm run dev
-````
+```
 
 Visit the app at: [http://localhost:5173](http://localhost:5173)
 
-<<<<<<< HEAD
-> 💡 This app uses the [fawazahmed0 currency API](https://github.com/fawazahmed0/currency-api) which doesn't require an API key. Currency codes like `usd`, `inr`, etc., are supported.
-=======
-![App Screenshot](public/Screenshot.png)
+> # 💡 This app uses the [fawazahmed0 currency API](https://github.com/fawazahmed0/currency-api) which doesn't require an API key. Currency codes like `usd`, `inr`, etc., are supported.
+>
+> ![App Screenshot](public/Screenshot.png)
+
 ```bash
 npm run dev
 
@@ -78,9 +79,8 @@ npm run dev
 npm run dev
 
 App will be available at `http://localhost:5173`.
->>>>>>> e89caa6cabbb5538092d6bbb6016285af502649d
 
----
+```
 
 ## 🧠 How It Works
 
