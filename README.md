@@ -1,5 +1,3 @@
-Got it! Here's the **entire `README.md` code in a single block**, ready to be copied and pasted into your project without breaking it into sections:
-
 ````markdown
 # 💱 React Currency Converter
 
