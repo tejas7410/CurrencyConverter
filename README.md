@@ -59,7 +59,26 @@ npm run dev
 
 Visit the app at: [http://localhost:5173](http://localhost:5173)
 
+<<<<<<< HEAD
 > 💡 This app uses the [fawazahmed0 currency API](https://github.com/fawazahmed0/currency-api) which doesn't require an API key. Currency codes like `usd`, `inr`, etc., are supported.
+=======
+![App Screenshot](public/Screenshot.png)
+```bash
+npm run dev
+
+```
+
+> You can get a free API key from [ExchangeRate API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/${currency}.json) or a similar service.
+> currecy can be usd or inr any available
+
+### 3. Run the App
+
+```bash
+
+npm run dev
+
+App will be available at `http://localhost:5173`.
+>>>>>>> e89caa6cabbb5538092d6bbb6016285af502649d
 
 ---
 
