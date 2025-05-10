@@ -47,7 +47,7 @@ currency-converter/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/tejas-kangule/currency-converter.git
 cd currency-converter
 ````
 
@@ -72,12 +72,9 @@ REACT_APP_EXCHANGE_API_KEY=your_api_key_here
 ### 4. Run the App
 
 ```bash
-npm start
-# or
-yarn start
-```
+npm run dev
 
-App will be available at `http://localhost:3000`.
+App will be available at `http://localhost:5173`.
 
 ---
 
@@ -91,7 +88,7 @@ App will be available at `http://localhost:3000`.
 
 ## 🖼️ UI Preview
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./public/Screenshot.png)
 
 ---
 
@@ -142,4 +139,7 @@ Integrated B.Tech + MBA, ABV-IIITM Gwalior
 ```
 
 Let me know if you'd like to include your `InputBox.jsx` or `useCurrencyInfo.js` code inside the README too for better documentation.
+
+```
+
 ```
